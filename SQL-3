@@ -1,5 +1,5 @@
       #SQL-3
-      
+      sql odev-3 - https://app.patika.dev/cucurcun
       
       --country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
       SELECT country FROM country
